@@ -1,0 +1,15 @@
+python: 
+https://docs.python.org/3/faq/general.html#what-is-python
+-> 4, 8
+
+git: 
+https://git-scm.com/doc
+-> 4, 5, 6, 7, 9, 13
+
+visual studio code: 
+https://code.visualstudio.com/docs
+-> 4, 5, 6, 7, 9, 11, 13
+
+sqlitebrowser/Db browser: 
+https://sqlitebrowser.org/
+-> 1, 2, 3, 8, 9, 11, 12, 13, 14
