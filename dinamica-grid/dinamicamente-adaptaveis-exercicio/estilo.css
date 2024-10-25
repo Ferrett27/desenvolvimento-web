@@ -1,0 +1,45 @@
+#minha-div {
+    width: 80%;
+    margin: 0 auto;
+    height: 60vh;
+    background-color: brown;
+}
+
+
+@media screen and (min-width: 360px) {
+    #minha-div{
+        background-color: blue;
+        height: 20vh;
+    }
+    
+}
+
+@media screen and (min-width: 992px) {
+    #minha-div{
+        background-color: aquamarine;
+    }
+
+    #segunda-div{
+        display: block;
+        height: 5rem;
+        width: 80%;
+        margin: 0 auto;
+        background-color: crimson;
+    }
+    
+}
+
+@media screen and (min-width: 1400px) {
+    #minha-div{
+        background-color: darkcyan;
+    }
+
+    #terceira-div{
+        display: block;
+        width: 80%;
+        margin: 0 auto;
+        height: 5rem;
+        background-color: black;
+    }
+    
+}
